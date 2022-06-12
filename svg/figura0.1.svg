@@ -1,0 +1,18 @@
+<svg width="300px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100,50 A25,25 0 1 1 100,49" fill="none" stroke="black" />
+  <path d="M100,87 A25,37 0 1 1 100,86" fill="none" stroke="black" />
+  <path d="M-25,100 C50,125 100,75 175,100" fill="none" stroke="black" />
+  <path d="M25,125 Q50,175 75,125 100,175 125,125" fill="none" stroke="black" />
+  <path d="M150,20
+           A45,45 0 0 0 195,65
+           L195,20 Z" fill="none" stroke="black" />
+  <path d="M250,20
+           A45,45 0 1 0 295,65
+           L295,20 Z" fill="none" stroke="black" />
+  <path d="M180,180
+           A45,45 0 0 1 225,225
+           L225,180 Z" fill="none" stroke="black" />
+  <path d="M250,180
+           A45,45 0 1 1 295,225
+           L295,180 Z" fill="none" stroke="black" />
+</svg>

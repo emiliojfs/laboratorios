@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetables>
+    <head>
+        <degree>1</degree>
+        <section>B</section>
+        <level>primaria</level>
+        <mouth>marzo</mouth>
+        <year>2019</year>
+    </head>
+    <entities>
+        <times>
+            <time id="b001" start="7:25" end="7:35"/>
+            <time id="b002" start="7:35" end="8:10"/>
+            <time id="b003" start="8:10" end="8:45"/>
+            <time id="b004" start="8:45" end="9:20"/>
+            <time id="b005" start="9:20" end="9:55"/>
+            <time id="b006" start="9:55" end="10:30"/>
+            <time id="b007" start="10:30" end="10:50"/>
+            <time id="b008" start="10:50" end="11:25"/>
+            <time id="b009" start="11:25" end="12:00"/>
+        </times>    
+        <activities>
+            <activity id="a001">Actividades permanentes</activity>
+            <activity id="a002">Recreo</activity>
+        </activities>
+        <courses>
+            <course id="c001">Comunicacion</course>
+            <course id="c002">Razonamiento Verbal</course>
+            <course id="c003">Matematica</course>
+            <course id="c004">Personal social</course>
+            <course id="c005">Tutoria</course>
+            <course id="c006">Educacuon fisica</course>
+            <course id="c007">Ingles</course>  
+            <course id="c008">Arte y cultura</course>  
+            <course id="c009">Educacion por el trabajo</course>  
+            <course id="c010">Ciencia y tecnología</course>
+            <course id="c011">Plan lector</course>
+            <course id="c012">Razonamiento matematico</course>  
+            <course id="c013">Religion</course>            
+        </courses>
+    </entities>
+    <schedule>
+        <monday>
+            <block idref="b001" idref="a001"/>
+            <block idref="b002" idref="c001"/>
+            <block idref="b003" idref="c001"/>
+            <block idref="b004" idref="c001"/>
+            <block idref="b005" idref="c001"/>
+            <block idref="b006" idref="a002"/>
+            <block idref="b007" idref="c001"/>
+            <block idref="b008" idref="c001"/>
+            <block idref="b009" idref="c001"/>            
+        </monday>
+        <tuesday>
+            <block idref="b001" idref="a001"/>
+            <block idref="b002" idref="c001"/>
+            <block idref="b003" idref="c001"/>
+            <block idref="b004" idref="c001"/>
+            <block idref="b005" idref="c001"/>
+            <block idref="b006" idref="a002"/>
+            <block idref="b007" idref="c001"/>
+            <block idref="b008" idref="c001"/>
+            <block idref="b009" idref="c001"/>         
+        </tuesday>
+        <wednesday>
+            <block idref="b001" idref="a001"/>
+            <block idref="b002" idref="c001"/>
+            <block idref="b003" idref="c001"/>
+            <block idref="b004" idref="c001"/>
+            <block idref="b005" idref="c001"/>
+            <block idref="b006" idref="a002"/>
+            <block idref="b007" idref="c001"/>
+            <block idref="b008" idref="c001"/>
+            <block idref="b009" idref="c001"/>          
+        </wednesday>
+        <thursday>
+            <block idref="b001" idref="a001"/>
+            <block idref="b002" idref="c001"/>
+            <block idref="b003" idref="c001"/>
+            <block idref="b004" idref="c001"/>
+            <block idref="b005" idref="c001"/>
+            <block idref="b006" idref="a002"/>
+            <block idref="b007" idref="c001"/>
+            <block idref="b008" idref="c001"/>
+            <block idref="b009" idref="c001"/>           
+        </thursday>
+        <friday>
+            <block idref="b001" idref="a001"/>
+            <block idref="b002" idref="c001"/>
+            <block idref="b003" idref="c001"/>
+            <block idref="b004" idref="c001"/>
+            <block idref="b005" idref="c001"/>
+            <block idref="b006" idref="a002"/>
+            <block idref="b007" idref="c001"/>
+            <block idref="b008" idref="c001"/>
+            <block idref="b009" idref="c001"/>          
+        </friday>
+    </schedule>
+</timetables>

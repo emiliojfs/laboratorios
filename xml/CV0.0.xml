@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculumVitae>
+    <imagen>
+        <objeto></objeto>
+    </imagen>
+    <contacto>
+        <nombre></nombre>
+        <edad></edad>
+        <domicilio></domicilio>
+        <telefono></telefono>
+        <email></email>
+    </contacto>
+    <perfil>
+        <texto></texto>
+    </perfil>
+    <estudiosAcademicos>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+    </estudiosAcademicos>
+    <actividadesLaborales>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>    
+    </actividadesLaborales>
+    <habilidades>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>        
+    </habilidades>
+    <conocimineotos>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>
+        <texto></texto>    
+    </conocimineotos>
+</curriculumVitae>

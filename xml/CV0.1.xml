@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculumVitae>
+    <image>
+        <object></object>
+    </image>
+
+    <personalData>
+        <name>Michelle Torres Quiroz</name>
+        <age>25</age>
+        <adress>
+            <street>AV Siempreviva</street>
+            <number>17</number>
+            <county>Anzures</county>
+            <country>Mexico</country>
+        </adress>
+        <phone>55344595</phone>
+        <email>curriculum@gmail.com</email>
+    </personalData>
+
+    <profile>
+        <text>
+            Tengo un carácter de mujer emprendedora, porque en los negocios o actividades laborales,
+	        suelo ser muy dinámica, responsable, puntual, puedo llevar la responsabilidad de un equipo de 
+	        personas, visionaria, y sobre todo motivadora, etc.
+        </text>
+    </profile>
+
+    <studie>
+        <degree id="studies001">
+            <university>Universidad Autonoma de Mexico</university>
+            <school>Ciencias de la comunicacion</school>
+            <title>Licenciatura en ciencias de la comunicacion</title>
+            <start>2001</start>
+            <end>2005</end>
+        </degree>
+        <degree id="studies002">
+            <university>Universidad Autonoma de Mexico</university>
+            <school>Derecho</school>
+            <title>Licenciatura en derecho</title>
+            <start>1996</start>
+            <end>2000</end>
+        </degree>
+    </studie>
+
+    <experience>
+        <position id="experience001">
+            <name>Asesor juridico para revista</name>
+            <country>Mexico</country>
+            <start>2000</start>
+            <end>2011</end>
+        </position>
+        <position id="experience002">
+            <name>Asesor juridico para revista</name>
+            <country>Mexico</country>
+            <start>2000</start>
+            <end>2011</end>
+        </position>
+        <position id="experience003">
+            <name>Asesor juridico para revista</name>
+            <country>Mexico</country>
+            <start>2000</start>
+            <end>2011</end>
+        </position>
+        <position id="experience004">
+            <name>Asesor juridico para revista</name>
+            <country>Mexico</country>
+            <start>2000</start>
+            <end>2011</end>
+        </position>
+    </experience>
+
+    <skill>
+        <name id="skill001">administrativas y contables</name>
+        <name id="skill002">office 2007</name>
+        <name id="skill003">equipo de computo</name>
+        <name id="skill004">ingles B2</name>
+    </skill>
+
+</curriculumVitae>

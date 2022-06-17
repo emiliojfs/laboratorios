@@ -1,0 +1,24 @@
+Una interfaz permite especificar un contrato (formado por un conjunto de operaciones).
+Las clases que adhieren a ese contrato deben implementar esos métodos.
+
+en Interfaz los metodos son mayormente abtractos y por tanto no implementan codigo
+Interface no conlleva el uso de herencia
+
+Se crea una jerarquia de clase con herencia (extends) abstract
+y la funcionalidad se implementa (implements) interface
+
+ una interfaz puede extender varias interfaces de una misma vez.
+
+ En una interfaz solamente puede haber métodos públicos.
+
+ En una interfaz sólo puedes tener constantes (public static final).
+
+ Define una forma estándar y pública de especificar el
+ comportamiento de clases (define un contrato)
+
+Permite la implementación de clases con
+comportamientos comunes, sin importar su ubicación
+en la jerarquía de clases
+
+
+

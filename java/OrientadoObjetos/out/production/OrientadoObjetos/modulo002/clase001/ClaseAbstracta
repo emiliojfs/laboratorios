@@ -1,0 +1,8 @@
+Su utilidad consiste en proveer estructura y comportamiento común a todas las subclases que heredan de ella.
+
+no puede ser instanciada
+
+En una clase abstracta, los métodos abstractos pueden ser public o protected.
+
+En una clase abstracta pueden existir variables static, final o static final con cualquier
+modificador de acceso (public, private, protected o default).

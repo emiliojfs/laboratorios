@@ -1,0 +1,19 @@
+/*Selector universal*/
+/*    *{...}    */
+
+/*Selector de etiqueta*/
+body {
+background-color: #eeeeee;
+}
+h3{
+color: darkblue;
+}
+
+/*Selector de ID*/
+#parrafo {
+    color: #ff0000;
+}
+/*Selector de clase*/
+.etiqueta{
+    color: #00aa00;
+}

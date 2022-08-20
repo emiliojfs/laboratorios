@@ -14,7 +14,7 @@
 }
 .aside{
   border: 2px solid orange;
-  grid-area: aside
+  grid-area: aside;
   height: 500px;
 }
 .contend{

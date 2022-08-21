@@ -1,8 +1,0 @@
-Tiene el mismo nombre de la clase
-Se inician cuando se instancia el objeto y no devuelve nada
-Obliga a pasar unos parametros en concreto (siempre q el constructor lo defina)
-Simplifica la forma de pasar parametros
-Propiedades:
-    sobre carga
-    constructor por defecto
-    this() y delegacion

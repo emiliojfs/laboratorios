@@ -1,4 +1,0 @@
-Iterable&&Iterator: recorren una lista, elimina y agrega. //no permite recorrer por posicion de un elemento concreto
-    Iterable: algo q se puede recorrer
-    Iterator: se encarga de recorrer
-Foreach: recorren una lista.//no permite recorrer por posicion de un elemento concreto

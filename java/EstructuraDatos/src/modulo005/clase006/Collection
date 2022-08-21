@@ -1,9 +1,0 @@
-extiende de la <inteface> Iterabble
-no es necesario instanciar a Iterable o Iterator
-contine los metodos:
-    add()
-    contains()
-    remove()
-    size()
-    clear()
-    ...

@@ -1,7 +1,0 @@
-las excepciones son una clase que se lanza cuando ocurre un error en tiempo de ejecución.
-Es decir, no son errores de compilación de algo que hemos escrito mal y el compilador no comprende
-sino que son errores que ocurren mientras nuestro programa está siendo usado. Java nos ofrece la
-posibilidad de controlar estos errores y recuperarnos de ellos sin abortar la ejecución de nuestro programa.
-
-Excepciones verificadas (IOException)
-Excepciones no verificadas (RunTimeException)

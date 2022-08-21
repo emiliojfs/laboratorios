@@ -1,0 +1,17 @@
+.paragraph {
+	font-family: Arial ;
+	text-align: justify;
+
+	/*Box Model*/
+	/*Caja interna: Content Box*/
+		width: auto;
+		height: 250px;
+	/*Caja interna: Padding - Separacion del content box con el border*/
+		padding-top: 10px;
+		padding-right: 0px;
+		padding-bottom: 10px;
+		padding-left: 100px; 
+
+	/*Caja interna: Border - Separacion del margin con el padding*/
+		border: .1px solid black;
+}

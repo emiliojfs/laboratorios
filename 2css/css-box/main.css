@@ -1,0 +1,56 @@
+body{
+    background-color: #eee;
+}
+
+#contenedor{
+    background-color: white;
+    border-style: outset;
+    border-width: 1px;
+}
+
+    .cabecera{
+        padding-left: 10px;
+        border-bottom: solid 1px #eee;
+    }
+
+    .contenido{
+        padding-left: 10px;
+    }
+
+    .pie{
+        border-top: solid 1px #eee;
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+    }
+
+    .boton_primario{
+        background-color: rgb(18, 142, 214);
+        color: azure;
+        padding: 7px;
+        border: none;
+    }
+
+    .boton_secundario{
+        background-color:rgb(138, 138, 138);
+        color: azure;
+        padding: 7px;
+        border: none;
+    }
+    /***********************************************/
+    .caja{
+        background-color: white;
+        height: 300px;
+        width: 300px;
+        margin: 1px;
+        border: 1px solid black;
+        
+    }
+    .subcaja{
+        background-color: darkviolet;
+        margin: 20px;
+        padding: 20px 5px 20px 5px;
+        border: solid 2px black;
+        outline: 2px solid red;
+        
+    }

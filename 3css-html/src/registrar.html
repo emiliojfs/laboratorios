@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Registrarse</title>
+</head>
+<body>
+    <form action="formulario.php" method="POST">
+        
+
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Nombre"/><br>
+        <label for="apellidopaterno">Apellido paterno</label>
+        <input type="text" id="apellidopaterno" name="apellidopaterno" placeholder="Apellido paterno"/><br>
+        <label for="apellidomaterno">Apellido materno</label>
+        <input type="text" id="apellidomaterno" name="apellidomaterno" placeholder="Apellido materno"/><br>
+        <label for="correoelectronico">Correo electronico</label>
+        <input type="email" id="correoelectronico" name="correoelectronico" value="tucorreo@servicio.com"/><br>
+        <label for="pass">Contraseña</label>
+        <input type="password" id="pass" name="pass"/><br>
+
+        <button type="button">Tipo boton </button> <!--(accion mediante javascript)-->
+        <button type="reset">Tipo reset </button> <!--vuelve a valores que tenia inicialmente-->
+        <button type="submit">Tipo submit </button> <!--envia los valores del formulario-->
+
+    </form>
+    
+    <br>
+    <hr>
+    <br>
+    <h3>Libros recomendados</h3>
+    
+    <table style="border:1px solid black;">
+        <thead>
+            <tr><!--Fila-->
+                <th>Producto</th><!--cabecera columna-->
+                <th>Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Liderazgo</td>
+                <td>$100.00</td>
+    
+            </tr>
+            <tr>
+                <td>Filosofía</td>
+                <td>$120.00</td>
+            </tr>
+            <tr>
+                <td>Historia</td>
+                <td>$99.99</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <td></td>
+            <td>Total: $319.90</td>
+        </tfoot>
+    </table>
+
+    <br>
+    <br>
+    <a href="../index.html">regresar</a>
+</body>
+</html>

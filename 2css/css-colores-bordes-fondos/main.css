@@ -1,0 +1,26 @@
+body{
+    background-color:rgba(0,0,0,0.05);
+    background-image: url(coffee.png);
+    background-size: cover;
+}
+.titulo{
+    color: #000;
+    border-style: solid;
+    border-color: #8ba0d8;
+    border-radius: 5px;
+    border-width: 2px;
+}
+
+.subtitulo {
+    color: #8ba0d8;
+    background-color: white;
+    border: 2px black dotted;
+}
+
+.parrafo {
+    color: rgb(25,210,154);
+    background-image: url(coffee.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

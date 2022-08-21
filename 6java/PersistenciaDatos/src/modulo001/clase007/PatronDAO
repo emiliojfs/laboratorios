@@ -1,0 +1,41 @@
+Los compones que conforman el patrón son:
+
+BusinessObject: representa un objeto con la lógica de negocio.
+
+DataAccessObject: representa una capa de acceso a datos que oculta
+la fuente y los detalles técnicos para recuperar los datos.
+
+TransferObject: este es un objeto plano que implementa el patrón
+Data Transfer Object (DTO), el cual sirve para transmitir la información
+entre el DAO y el Business Service.
+
+DataSource: representa de forma abstracta la fuente de datos, la cual puede ser
+una base de datos, Webservices, LDAP, archivos de texto, etc.
+
+*********
+
+El problema que viene a resolver este patrón es el de incluir diversas fuentes de datos
+(base de datos, archivos, servicios externos, etc) a la lógica de negocio y a su vez encapsulando
+la forma de acceder a dichas fuentes.
+
+Un DAO define la relación entre la lógica de presentación y la de negocio por una parte y por otra
+la relacion con la capa de datos. El DAO tiene una interfaz común, sea cual sea el modo y fuente de acceso a datos
+
+Business Object (BO)
+
+Business Object (BO) permite separar la lógica de negocio del resto de las capas
+(presentación y de acceso a datos). Los objetos de negocio (BO) organizan el código de negocio en unidades lógicas
+que facilitan la mantenibilidad del sistema y su evolución hacia nuevas tecnologías.
+
+Data Access Object  (DAO)
+
+Los componentes de acceso a datos (DAO) encapsulan la tecnología empleada para acceder a la capa de datos,
+separando completamente la lógica de negocio de la lógica de acceso a datos. De esta forma se garantiza
+la portabilidad del sistema en los diferentes motores de base de datos (Oracle, SqlServer, etc).
+
+DataSource
+
+Esto representa una implementación de fuente de datos. Una fuente de datos podría ser una base de datos
+como un RDBMS, SGBDOO, repositorio XML, sistema de archivos planos, y así sucesivamente. Una fuente de datos
+también puede ser otro sistema (legacy / mainframe), servicios (servicio de B2B o una oficina de tarjetas de crédito),
+o algún tipo de repositorio (LDAP).

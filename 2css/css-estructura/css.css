@@ -1,0 +1,29 @@
+.layaout{
+  display: grid;
+  grid-gap: .25rem; /*separar los elementos de la grilla*/
+  grid-template-areas:
+    "main main main main main main main main main main"
+    "aside contend contend contend contend contend contend contend contend contend"
+    "foot foot foot foot foot foot foot foot foot foot"
+}
+
+.main{
+  grid-area: main;
+  border: 2px solid red;
+  height: 50px;
+}
+.aside{
+  border: 2px solid orange;
+  grid-area: aside;
+  height: 500px;
+}
+.contend{
+  border: 2px solid blue;
+  grid-area:contend;
+  height: 600px;
+}
+.foot{
+  border: 2px solid green;
+  grid-area:foot;
+  height: 25px;
+}

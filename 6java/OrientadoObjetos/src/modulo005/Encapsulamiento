@@ -1,0 +1,4 @@
+Controlar el acceso de los atributos (datos) y metodos (operaciones)
+Controlar modificaciones fuera de la clase
+
+Modificadores de Acceso:  (default), public, protected y privado

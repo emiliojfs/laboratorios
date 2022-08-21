@@ -1,0 +1,14 @@
+
+.izquierda{
+    float:left;
+    border: 2px black dotted;
+    height: 100px;
+    width: 100px;
+}
+
+.derecha{
+    float:right;
+    border: 2px black dotted;
+    height: 100px;
+    width: 100px;
+}

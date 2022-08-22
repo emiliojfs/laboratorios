@@ -1,0 +1,16 @@
+body{
+    background: #eee;
+}
+
+ul{
+    background-color: white;
+    border: solid 1px #ddd;
+    border-radius: 4px;
+    
+    list-style-type: square;
+}
+
+li {
+    border-bottom: solid 1px #ddd;
+    padding: 15px;
+}

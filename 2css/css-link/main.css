@@ -1,17 +1,28 @@
-
-
-a:link{
-    color: blueviolet;
-}
-
-a:hover {
-    color: yellow;
+a{
+    background-color: beige;
+    display: block;
+    padding: 10px;
+    margin: 15px;
+    width: 100px;
+    border-radius: 4px;
+    border: solid 1px #d00;
 }
 
 a:visited{
-    color: yellowgreen;
+    color: tomato;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+    background-color: bisque;
+}
+
+a:link{
+    color: blue;
+    text-decoration: none;
 }
 
 a:active{
-    color: rojo;
+    color: black;
 }

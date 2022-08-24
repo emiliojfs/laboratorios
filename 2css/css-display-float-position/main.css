@@ -11,7 +11,7 @@ span{
 }
 
 .posicion{
-    position: relative;
+    position: relative; /*son referentes al padre*/
     left: 15px;
     top: 5px;
 }

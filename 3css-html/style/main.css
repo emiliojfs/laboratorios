@@ -57,3 +57,49 @@ footer a{
 footer a:hover{
     color: cornflowerblue;
 }
+.accesorapido{
+    width: auto;
+
+}
+
+.etiqueta1{
+    background-color: white;
+    padding: 10px 0 10px 0;
+    display: inline-block;
+    width: 32%;
+    border-left: lightblue solid 2px;
+    transition: 0.3s;
+}
+.etiqueta1:hover{
+    background-color: lightblue;
+    box-shadow: 2px 2px rgba(0,0,0,0.1);
+    transform: scale(1.05, 1.05);
+}
+
+.etiqueta2{
+    background-color: white;
+    padding: 10px 0 10px 0;
+    display: inline-block;
+    width: 32%;
+    border-left: lightsalmon solid 2px;
+    transition: 0.3s;
+}
+.etiqueta2:hover{
+    background-color: lightsalmon;
+    box-shadow: 2px 2px rgba(0,0,0,0.1);
+    transform: scale(1.05, 1.05);
+}
+
+.etiqueta3{
+    background-color: white;
+    padding: 10px 0 10px 0;
+    display: inline-block;
+    width: 32%;
+    border-left: lightskyblue solid 2px;
+    transition: 0.3s;
+}
+.etiqueta3:hover{
+    background-color: lightskyblue;
+    box-shadow: 2px 2px rgba(0,0,0,0.1);
+    transform: scale(1.05, 1.05);
+}

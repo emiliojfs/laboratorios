@@ -1,26 +1,58 @@
 body{
-    background-color:rgba(0,0,0,0.05);
-    background-image: url(coffee.png);
-    background-size: cover;
+    background-color:#eee
 }
+.fondo{
+    height: 300px;
+    background-color: white;
+    background-image: url('http://placekitten.com/g/200/300');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
 .titulo{
     color: #000;
     border-style: solid;
     border-color: #8ba0d8;
-    border-radius: 5px;
-    border-width: 2px;
+    border-radius: 10px;
+    border-width: 10px 2px 2px 2px;
 }
 
 .subtitulo {
-    color: #8ba0d8;
-    background-color: white;
-    border: 2px black dotted;
+    color: #000;
+    border-style: solid;
+    border-color: #e2f5b6;
+    border-radius: 10px;
+    border-width: 5px 2px 2px 2px;
+    margin: 10px;
 }
 
 .parrafo {
-    color: rgb(25,210,154);
     background-image: url(coffee.png);
-    background-size: 20px 20px;
+    background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: center;
+    margin: 15px;
+    height: 50px
+}
+
+.gradiante{
+    margin: 20px 0 0 0;
+    height: 300px;
+    background-image: linear-gradient(to right, red, blue,black); 
+    /* (direccion(to left), color1(nombre o rgba o hls), color2, color3)
+        (angulo(-45deg), color1, color2, color3)
+    */
+}
+
+.sombra{
+    margin: 50px 0 0 0;
+    height: 100px;
+    background-color: white;
+    /*sombra por fuera*/
+    box-shadow: 2px 2px 20px rgba(255,128,0,0.8); /*(posicion horizontal, posicion vertical, grosor ,color)*/
+}
+
+.sombra p{
+    /*sombra por dentro*/
+    box-shadow: 2px 2px 4px rgba(255,128,0,0.8) inset;
 }

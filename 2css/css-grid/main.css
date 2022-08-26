@@ -1,0 +1,37 @@
+body{
+    background-color: #eee;
+}
+
+.grid-fila{
+    display: grid;
+    grid-template-rows: 90px 50px 120px;
+    padding: 10px 0 0 0;
+}
+
+.grid-columna{
+    display: grid;
+    grid-template-columns: 90px 50px 120px;
+    padding: 10px 0 0 0;
+}
+
+.grid{
+    display: grid;
+    padding: 10px 0 0 0;
+    grid-template-columns: minmax(100px,auto);
+    grid-template-rows: minmax(auto,50%)1fr 3em;
+}
+
+.element{
+    background-color: lightcoral;
+}
+
+.grid-repetir-dimension{
+    display: grid;
+    padding: 10px 0 0 0;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,50px);
+    
+
+    row-gap: 20px;
+    column-gap: 20px;
+}

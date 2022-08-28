@@ -8,40 +8,108 @@
     <title>GRID</title>
 </head>
 <body>
+    <h1>GRID</h1>
+    <p>
+        La grilla (grid) es la disposicion (distribucion) de los elementos en un array en el DOM, 
+        como un sistema de celdas (excel) que permite distribuir el contenido
+    </p>
+    <hr>
+    <p>display: grid</p>
+    <p>grid-template-rows: 90px 50px 120px</p>
     <div class="grid-fila">
-        <div class="element">A</div>
-        <div class="element">B</div>
-        <div class="element">C</div>
-        <div class="element">D</div>
-        <div class="element">E</div>
-        <div class="element">F</div>
+        <div class="element">A->90</div>
+        <div class="element">B->50</div>
+        <div class="element">C->120</div>
+        <div class="element">D->x defecto</div>
+        <div class="element">E->x defecto</div>
+        <div class="element">F->x defecto</div>
     </div>
-
+    <hr>
+    <p>display: grid</p>
+    <p>grid-template-columns: 120px 120px 120px 240px 120px</p>
     <div class="grid-columna">
-        <div class="element">A</div>
-        <div class="element">B</div>
-        <div class="element">C</div>
-        <div class="element">D</div>
-        <div class="element">E</div>
-        <div class="element">F</div>
+        <div class="element">A->120</div>
+        <div class="element">B->120</div>
+        <div class="element">C->120</div>
+        <div class="element">D->240</div>
+        <div class="element">E->120</div>
+        <div class="element">F->x defecto</div>
     </div>
-
+    <hr>
+    <p>display: grid</p>
+    <p>grid-template-rows: minmax(50px,100px) minmax(50px,100px) minmax(50px,100px) 30px 15px</p>  
+    <p>grid-template-columns: minmax(25px,50px) minmax(25px,50px) 1fr 3fr 1fr 1fr</p>
     <div class="grid">
-        <div class="element">A</div>
+        <div class="element">A1 row-> 50px o 100px / column -> 25px o 50px</div>
+        <div class="element">B1 row-> 50px o 100px / column -> 25px o 50px</div>
+        <div class="element">C1 row-> 50px o 100px / column ->  1fr</div>
+        <div class="element">D1 row-> 30px/ column ->3fr</div>
+        <div class="element">E1 row-> 15px/ column ->1fr</div>
+        <div class="element">F1 row-> x defecto/ column -> 1fr</div>
+    </div>
+    <hr>
+    <p>display: grid;</p>
+    <p>grid-template-columns:repeat(2,50px)</p>
+    <p>grid-template-rows: 50px repeat(4,1fr) 2fr</p>
+    <div class="grid-repetir-dimension">
+        <div class="element">A column->50px / row->50px</div>
+        <div class="element">B column->50px / row->1fr</div>
+        <div class="element">C column->xdefecto / row->1fr</div>
+        <div class="element">D column->xdefecto / row->100px</div>
+        <div class="element">E column->xdefecto / row->xdefecto</div>
+        <div class="element">F column->xdefecto / row->xdefecto</div>
+        <div class="element">F column->xdefecto / row->xdefecto</div>
+        <div class="element">F column->xdefecto / row->xdefecto</div>
+        <div class="element">F column->xdefecto / row->xdefecto</div>
+    </div>
+    <hr>
+    <p>en clase header:
+        ***se puede usar la propiedad grid por que el padre tiene habilitado la propiedad "grid"***
+    </p>
+    <p>
+        grid-column-start: 1;
+        grid-column-end: 4;
+    </p>
+    <p>
+        grid-row-start: 1;
+        grid-row-end: 4;
+    </p>
+    <div class="grid-expandir-elemento">
+        <div class="header">HEADER</div>
         <div class="element">B</div>
         <div class="element">C</div>
         <div class="element">D</div>
         <div class="element">E</div>
-        <div class="element">F</div>
+        <div class="element">G</div>
+        <div class="element">H</div>
+        <div class="element">I</div>
+        <div class="element">J</div>
     </div>
 
-    <div class="grid-repetir-dimension">
-        <div class="element">A</div>
-        <div class="element">B</div>
-        <div class="element">C</div>
-        <div class="element">D</div>
-        <div class="element">E</div>
-        <div class="element">F</div>
+    <hr>
+    <div class="grid-molde">
+        <div class="div-rojo">Headerx</div>
+        <div class="div-rojo">Headerx</div>
+        <div class="div-azul">
+            <div>Content</div>
+            <div>Content</div>
+            <div>Content</div>
+            <div>Content</div>
+            <div>Content</div>
+        </div>
+        <div class="div-azul">Siderbar</div>
+        <div class="div-rojo">Footer</div>
+        <div class="div-rojo">Footer</div>
     </div>
+
+    <hr>
+
+    <p>align-item</p>
+    <p>justify-item</p>
+    <p>align-self</p>
+    <p>justify-self</p>
+    <p>align-content</p>
+    <p>justify-content</p>
+
 </body>
 </html>

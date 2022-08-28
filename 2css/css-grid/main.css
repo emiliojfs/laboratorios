@@ -6,32 +6,64 @@ body{
     display: grid;
     grid-template-rows: 90px 50px 120px;
     padding: 10px 0 0 0;
+    gap: 5px
 }
 
 .grid-columna{
     display: grid;
-    grid-template-columns: 90px 50px 120px;
+    grid-template-columns: 120px 120px 120px 240px 120px;
     padding: 10px 0 0 0;
+    gap: 5px
 }
 
 .grid{
     display: grid;
     padding: 10px 0 0 0;
-    grid-template-columns: minmax(100px,auto);
-    grid-template-rows: minmax(auto,50%)1fr 3em;
-}
-
-.element{
-    background-color: lightcoral;
+    grid-template-rows: minmax(50px,100px) minmax(50px,100px) minmax(50px,100px) 30px 15px;
+    grid-template-columns: minmax(25px,50px) minmax(25px,50px) 1fr 3fr 1fr 1fr;
+    gap: 5px
 }
 
 .grid-repetir-dimension{
     display: grid;
     padding: 10px 0 0 0;
-    grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(2,50px);
-    
+    grid-template-columns: repeat(2,50px);
+    grid-template-rows: 50px repeat(4,1fr) 2fr;
 
-    row-gap: 20px;
-    column-gap: 20px;
+    row-gap: 5px;
+    column-gap: 10px;
+}
+
+.grid-expandir-elemento{
+    display: grid;
+    gap: 5px;
+    grid-template-columns: repeat(4,100px);
+}
+
+.header{
+    background-color: tomato;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    gap: 5px;
+}
+
+.element{
+    background-color: rgb(77, 175, 146);
+}
+
+.grid-molde{
+    display: grid;
+    grid-template-areas:"headerx headerx" "content siderbar" "footer footer";
+    grid-template-rows: 150px 1fr 100px;
+    grid-template-columns: 1fr 200px ;
+}
+
+.div-rojo{
+    background-color: red;
+}
+
+.div-azul{
+    background-color: blue;
 }

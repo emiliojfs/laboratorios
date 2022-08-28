@@ -6,27 +6,45 @@ body{
     display: grid;
     grid-template-rows: 90px 50px 120px;
     padding: 10px 0 0 0;
+<<<<<<< HEAD
     gap: 5px
+=======
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }
 
 .grid-columna{
     display: grid;
+<<<<<<< HEAD
     grid-template-columns: 120px 120px 120px 240px 120px;
     padding: 10px 0 0 0;
     gap: 5px
+=======
+    grid-template-columns: 90px 50px 120px;
+    padding: 10px 0 0 0;
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }
 
 .grid{
     display: grid;
     padding: 10px 0 0 0;
+<<<<<<< HEAD
     grid-template-rows: minmax(50px,100px) minmax(50px,100px) minmax(50px,100px) 30px 15px;
     grid-template-columns: minmax(25px,50px) minmax(25px,50px) 1fr 3fr 1fr 1fr;
     gap: 5px
+=======
+    grid-template-columns: minmax(100px,auto);
+    grid-template-rows: minmax(auto,50%)1fr 3em;
+}
+
+.element{
+    background-color: lightcoral;
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }
 
 .grid-repetir-dimension{
     display: grid;
     padding: 10px 0 0 0;
+<<<<<<< HEAD
     grid-template-columns: repeat(2,50px);
     grid-template-rows: 50px repeat(4,1fr) 2fr;
 
@@ -66,4 +84,12 @@ body{
 
 .div-azul{
     background-color: blue;
+=======
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(2,50px);
+    
+
+    row-gap: 20px;
+    column-gap: 20px;
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }

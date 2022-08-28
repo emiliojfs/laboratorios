@@ -58,35 +58,56 @@ footer a:hover{
     color: cornflowerblue;
 }
 .accesorapido{
+<<<<<<< HEAD
     box-sizing: border-box;
+=======
+    width: auto;
+
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }
 
 .etiqueta1{
     background-color: white;
     padding: 10px 0 10px 0;
     display: inline-block;
+<<<<<<< HEAD
     width: 33%;
+=======
+    width: 32%;
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
     border-left: lightblue solid 2px;
     transition: 0.3s;
 }
 .etiqueta1:hover{
     background-color: lightblue;
     box-shadow: 2px 2px rgba(0,0,0,0.1);
+<<<<<<< HEAD
     transform: scale(1.02, 1.02);
+=======
+    transform: scale(1.05, 1.05);
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }
 
 .etiqueta2{
     background-color: white;
     padding: 10px 0 10px 0;
     display: inline-block;
+<<<<<<< HEAD
     width: 33%;
+=======
+    width: 32%;
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
     border-left: lightsalmon solid 2px;
     transition: 0.3s;
 }
 .etiqueta2:hover{
     background-color: lightsalmon;
     box-shadow: 2px 2px rgba(0,0,0,0.1);
+<<<<<<< HEAD
     transform: scale(1.02, 1.02);
+=======
+    transform: scale(1.05, 1.05);
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }
 
 .etiqueta3{
@@ -100,5 +121,9 @@ footer a:hover{
 .etiqueta3:hover{
     background-color: lightskyblue;
     box-shadow: 2px 2px rgba(0,0,0,0.1);
+<<<<<<< HEAD
     transform: scale(1.02, 1.02);
+=======
+    transform: scale(1.05, 1.05);
+>>>>>>> c774d527ddcadb3a9fa3e561625d37a5dacfffe9
 }

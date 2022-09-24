@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5607afa-6612-4343-9ce7-d32f2929aa14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g1aes9JMiaede6zlp9yQkjAHKW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo002\clase009" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo003\clase017" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo003\clase016" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo003\clase015" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\clase016" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="modulo007.clase006" />
+      <recent name="clase012" />
+      <recent name="clase011" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo007\ficheros" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo001\clase007" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo002" />
+      <recent name="C:\Users\JEFS\IdeaProjects\BibliotecaEstandar\src\modulo006\ficheros" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FicheroEscribir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo006.clase002.FicheroEscribir" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo006.clase002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo007.clase006.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo007.clase006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo007.clase007.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo007.clase007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo003.clase001.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo003.clase001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo004.clase001.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo004.clase001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo006.clase008.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo006.clase008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo002.clase008.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo002.clase008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo007.clase005.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo007.clase005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo007.clase003.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo007.clase003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo007.clase004.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo007.clase004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo006.clase019.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo006.clase019.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo005.clase007.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo005.clase007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo003.clase031.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo003.clase031.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo003.clase012.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo003.clase012.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo004.clase012.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo004.clase012.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo002.clase010.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo002.clase010.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo002.clase012.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo002.clase012.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo003.clase014.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo003.clase014.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo004.clase013.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo004.clase013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo001.clase005.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo001.clase005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo004.clase011.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo004.clase011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo006.clase006.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo006.clase006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase013.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo006.clase020.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo006.clase020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase015.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase015.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase012.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clase012.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modulo006.clase007.Main" />
+      <module name="BibliotecaEstandar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modulo006.clase007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.FicheroEscribir" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5607afa-6612-4343-9ce7-d32f2929aa14" name="Default Changelist" comment="" />
+      <created>1597284650904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597284650904</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="343" key="#Notifications" timestamp="1604795539897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="343" key="#Notifications/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1604795539897" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1604795525981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1604795525981" />
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602029094899">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1599513535703" />
+    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602029094899" />
+    <state x="1811" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1601049288184" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1600340889373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597863894635" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600340889373" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598800001492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1598800001492" />
+    <state x="212" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599411766681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="212" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599411766681" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599408627948">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599408627948" />
+    <state x="440" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602037266598">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="440" y="233" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602037266598" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1598828843588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1598828843588" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1603033417558">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1599515546064" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602038519748" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603033417558" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599356503132" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1603033417558">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1599515546064" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602038519748" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603033417558" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599356503132" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1603033417558">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1599515546064" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602038519748" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603033417558" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599356503132" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1603033417558">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1599515546064" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1602038519748" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603033417558" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599356503132" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1601390863732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601390863732" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1601390863732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601390863732" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1601390863732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601390863732" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1601390863732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601390863732" />
+    <state x="263" y="106" key="IDE.errors.dialog" timestamp="1598837038911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="106" key="IDE.errors.dialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1598837038911" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1601514572546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601514572546" />
+    <state x="220" y="98" width="925" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600342726967">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="220" y="98" width="925" height="630" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1600342726967" />
+    <state x="65" y="0" key="new project wizard" timestamp="1597853622112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597853622112" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598830783461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597798351322" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1598830783461" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

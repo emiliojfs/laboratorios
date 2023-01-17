@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FundamentosApplication<fundamentos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "fundamentos.fundamentos.FundamentosApplication",
+            "projectName": "fundamentos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

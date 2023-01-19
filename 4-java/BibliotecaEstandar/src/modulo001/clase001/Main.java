@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //tipo primitivo a tipo envoltorio
         int numero = 7;
-        Integer objetoNumero = new Integer(numero);//cuando sale subrayado significa que no se recomienda su uso
+        Integer objetoNumero = numero;//cuando sale subrayado significa que no se recomienda su uso
         System.out.println(objetoNumero);
 
         int nuevoNumero = objetoNumero.intValue()+5;

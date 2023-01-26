@@ -1,0 +1,4 @@
+CREATE TABLESPACE tbls_laboratorios LOCATION 'C:/..';
+CREATE TABLESPACE tbls_proyectos LOCATION 'C:/..';
+
+CREATE DATABASE miprimerabase TABLESPACE = tbls_laboratorios;

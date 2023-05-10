@@ -1,3 +1,0 @@
-
-CREATE DATABASE miprimerabase TABLESPACE = tbls_laboratorios;
-CREATE DATABASE registro TABLESPACE = tbls_laboratorios;
